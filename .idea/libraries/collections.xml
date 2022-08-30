@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="collections">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/collections.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Serialio/Serialio.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/Serialio/jspComm.jar!/" />
+      <root url="file://$PROJECT_DIR$/Domains/SoccerBots/teams" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/Domains/SoccerBots/teams" />
+    </SOURCES>
+  </library>
+</component>
